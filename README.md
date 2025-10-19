@@ -1,131 +1,205 @@
-# 🚀 Olá! Eu sou o Higor Batista (@higorxyz)
+# <div align="center">💜 Higor Batista | @higorxyz 💜</div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Transformando+ideias+em+código)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=200&section=header&text=Software%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%A1;Code+is+poetry+%E2%9C%A8;Building+amazing+experiences+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-## 💜 Sobre Mim
-
-🚀 Sou um desenvolvedor apaixonado por criar soluções inovadoras que fazem a diferença. Com expertise em desenvolvimento web full-stack, transformo ideias complexas em produtos elegantes e funcionais.
-
-💡 Estudante de Engenharia de Software com maior vivência em **JavaScript**, **C++**, **Python**, **React** e **SQL**. Sigo explorando novas tecnologias e metodologias para entregar experiências cada vez melhores.
-
-🌍 Disponível para trabalho **remoto** e projetos **globais**
-
-✨ *"Code is poetry"* - Debug by day, dream by night
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Linguagens
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Arquitetura
-- **SPA** (Single Page Applications)
-- **SSR** (Server Side Rendering)
-- **Microservices**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorxyz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higorxyz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=higorxyz&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7)
-
-</div>
-
----
-
-## 🎯 Foco Atual
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Sobre Mim
 
 ```javascript
-const developer = {
+const higor = {
   name: "Higor Batista",
   role: "Full Stack Developer",
   location: "Brasil 🇧🇷",
-  github: "higorxyz",
-  code: ["JavaScript", "TypeScript", "Python", "SQL"],
-  tools: ["React", "Next.js", "Node.js", "Tailwind", "PostgreSQL"],
-  architecture: ["SPA", "SSR", "Microservices"],
-  currentFocus: "Building amazing UX",
-  lifePhilosophy: "Code is poetry ✨",
-  passion: "🚀 Innovation & Tech"
+  
+  code: {
+    languages: ["JavaScript", "Python", "C++", "SQL"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+    backend: ["Node.js", "Express", "PostgreSQL"],
+    architecture: ["SPA", "SSR", "Microservices"],
+  },
+  
+  philosophy: {
+    motto: "Code is poetry ✨",
+    approach: "Transformando ideias 💡 em código",
+    focus: "Building amazing UX",
+    passion: "Innovation & Tech 🚀"
+  },
+  
+  currentlyLearning: ["System Design", "Advanced React", "DevOps"],
+  funFact: "Debug by day, dream by night 🌙",
+  availableFor: ["Remote Work 🌍", "Freelance Projects", "Collaboration"],
 };
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌟 Projetos em Destaque
-
-Confira meus projetos mais recentes e populares nos repositórios abaixo! 
-
-🔥 Todos os projetos são **atualizados automaticamente** e incluem tecnologias modernas como React, Next.js, Tailwind CSS e muito mais.
-
----
-
-## 📫 Vamos Conversar?
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higorbatista)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higorxyz/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.higorxyz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/higorxyz)
+### 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,sql" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,materialui" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,mongodb,prisma" />
+
+### 🔧 Ferramentas & Outros
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💬 Filosofia de Desenvolvimento
+## 📊 GitHub Analytics
 
-> *"Transformando ideias 💡 em código e criando experiências digitais que impressionam"*
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=higorxyz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF&ring_color=A855F7"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=higorxyz&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+</div>
 
-- ✅ Código limpo e manutenível
-- 🎨 Design responsivo e acessível
-- ⚡ Performance e otimização
-- 🔒 Segurança em primeiro lugar
-- 📚 Aprendizado contínuo
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=higorxyz&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=9CA3AF" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=higorxyz&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=EC4899&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" />
+</div>
 
-## 🏆 Conquistas
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-- 🎓 Estudante de Engenharia de Software
-- 🚀 2+ anos de experiência em desenvolvimento
-- 💼 Projetos open source no GitHub
-- 🌟 Contribuindo para a comunidade dev
+## 🏆 Conquistas & Troféus
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=higorxyz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 O Que Estou Fazendo Agora
 
 <div align="center">
 
-### 💜 Obrigado pela visita!
+```mermaid
+mindmap
+  root((Higor))
+    🎓 Estudando
+      Engenharia de Software
+      System Design
+      Advanced React
+      DevOps
+    💼 Desenvolvendo
+      Projetos Full Stack
+      UI/UX Moderno
+      APIs RESTful
+      Microservices
+    🚀 Explorando
+      Next.js 14
+      React Server Components
+      PostgreSQL Avançado
+      CI/CD
+    🌟 Contribuindo
+      Open Source
+      Comunidade Dev
+      Code Reviews
+      Mentoria
+```
 
-**Desenvolvido com paixão e dedicação**
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=higorxyz&color=blueviolet&style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💡 Filosofia de Desenvolvimento
+
+<div align="center">
+
+| Princípio | Descrição |
+|-----------|-----------|
+| 🎨 **Design First** | Experiências visuais que impressionam |
+| ⚡ **Performance** | Código otimizado e veloz |
+| 🔒 **Segurança** | Proteção de dados em primeiro lugar |
+| 📱 **Responsivo** | Funciona perfeitamente em qualquer tela |
+| ♿ **Acessível** | Inclusivo para todos os usuários |
+| 🧪 **Testável** | Qualidade garantida por testes |
+| 📚 **Documentado** | Código limpo e bem explicado |
+| 🔄 **Escalável** | Preparado para crescer |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌟 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/higorxyz?tab=repositories">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Meus%20Projetos-A855F7?style=for-the-badge&logo=repo&logoColor=white" />
+</a>
+
+</div>
+
+> 🔥 Todos os projetos são **atualizados automaticamente** do GitHub e incluem tecnologias modernas!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📫 Vamos Construir Algo Incrível Juntos?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higorbatista)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higorxyz/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.higorxyz@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/higorxyz)
+
+<br>
+
+### 💬 **Sempre aberto para:**
+
+🤝 Colaborações em projetos open source  
+💼 Oportunidades de trabalho remoto  
+🚀 Projetos freelance desafiadores  
+📚 Compartilhar conhecimento e experiências  
+☕ Conversar sobre tecnologia e inovação
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📈 Contribuições em Tempo Real
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+## 💜 Obrigado pela Visita!
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
+### *"O único modo de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=higorxyz&color=blueviolet&style=for-the-badge&label=VISITANTES)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=150&section=footer" width="100%"/>
 
 </div>
