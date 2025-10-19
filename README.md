@@ -19,9 +19,9 @@ const higor = {
   location: "Brasil 🇧🇷",
   
   code: {
-    languages: ["JavaScript", "Python", "C++", "SQL"],
-    frontend: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express", "PostgreSQL"],
+    languages: ["JavaScript", "Python", "C++", "C", "HTML5", "CSS3"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Redux", "Material-UI"],
+    backend: ["Node.js", "Express", "PostgreSQL", "MongoDB", "Prisma"],
     architecture: ["SPA", "SSR", "Microservices"],
   },
   
@@ -45,22 +45,22 @@ const higor = {
 <div align="center">
 
 ### 💻 Linguagens
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css" />
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,materialui" />
 </p>
 
 ### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,mongodb,prisma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,mongodb,supabase" />
 </p>
 
 ### 🔧 Ferramentas & Outros
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 </p>
 
