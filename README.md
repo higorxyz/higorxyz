@@ -45,20 +45,24 @@ const higor = {
 <div align="center">
 
 ### 💻 Linguagens
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,sql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,sql" />
+</p>
 
 ### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,materialui" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,materialui" />
+</p>
 
 ### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,mongodb,prisma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,mongodb,prisma" />
+</p>
 
 ### 🔧 Ferramentas & Outros
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
 
 </div>
 
@@ -89,39 +93,6 @@ const higor = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 O Que Estou Fazendo Agora
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Higor))
-    🎓 Estudando
-      Engenharia de Software
-      System Design
-      Advanced React
-      DevOps
-    💼 Desenvolvendo
-      Projetos Full Stack
-      UI/UX Moderno
-      APIs RESTful
-      Microservices
-    🚀 Explorando
-      Next.js 14
-      React Server Components
-      PostgreSQL Avançado
-      CI/CD
-    🌟 Contribuindo
-      Open Source
-      Comunidade Dev
-      Code Reviews
-      Mentoria
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 💡 Filosofia de Desenvolvimento
 
 <div align="center">
@@ -141,17 +112,22 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌟 Projetos em Destaque
+## 🌟 Portfólio Completo
 
 <div align="center">
 
-<a href="https://github.com/higorxyz?tab=repositories">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Meus%20Projetos-A855F7?style=for-the-badge&logo=repo&logoColor=white" />
+<a href="https://github.com/higorxyz/repo">
+  <img src="https://img.shields.io/badge/🚀_Ver_Portfólio_Completo-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/higorxyz/repo">
+  <img src="https://img.shields.io/badge/💼_Código_Fonte-EC4899?style=for-the-badge&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-> 🔥 Todos os projetos são **atualizados automaticamente** do GitHub e incluem tecnologias modernas!
+> 🔥 Portfólio interativo com **integração GitHub API** para exibição dinâmica de projetos e estatísticas em tempo real!
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -162,7 +138,7 @@ mindmap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higorbatista)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higorxyz/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.higorxyz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/higorxyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/higorxyz/repo)
 
 <br>
 
@@ -178,27 +154,13 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 Contribuições em Tempo Real
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
 
 ## 💜 Obrigado pela Visita!
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-4dfc-a07d-7d5937c1c1ea.gif" width="250">
 
 ### *"O único modo de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=higorxyz&color=blueviolet&style=for-the-badge&label=VISITANTES)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=150&section=footer" width="100%"/>
 
