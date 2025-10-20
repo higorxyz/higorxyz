@@ -114,7 +114,7 @@ const higor = {
 
 <div align="center">
 
-<a href="https://github.com/higorxyz/repo">
+<a href="https://higorxyz.vercel.app">
   <img src="https://img.shields.io/badge/🚀_Ver_Portfólio_Completo-A855F7?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://github.com/higorxyz/repo">
