@@ -8,7 +8,21 @@
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Sobre Mim
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+## 🌟 Conheça Meu Portfólio Interativo
+
+<a href="https://higorxyz.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_Ver_Portfólio_Completo-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+
+**Portfólio profissional** com integração GitHub API • Projetos em tempo real • Design moderno e responsivo
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ```javascript
 const higor = {
@@ -17,7 +31,7 @@ const higor = {
   location: "Brasil 🇧🇷",
   
   code: {
-    languages: ["JavaScript", "Python", "C++", "C", "HTML5", "CSS3"],
+    languages: ["JavaScript", "Python", "C++", "Java", "C#", "SQL"],
     frontend: ["React", "Next.js", "Tailwind CSS", "Redux", "Material-UI"],
     backend: ["Node.js", "Express", "PostgreSQL", "MongoDB", "Prisma"],
     architecture: ["SPA", "SSR", "Microservices"],
@@ -44,7 +58,7 @@ const higor = {
 
 ### 💻 Linguagens
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,cs,mysql" />
 </p>
 
 ### 🎨 Frontend
@@ -83,28 +97,11 @@ const higor = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+
 ## 🏆 Conquistas & Troféus
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=higorxyz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💡 Filosofia de Desenvolvimento
-
-<div align="center">
-
-| Princípio | Descrição |
-|-----------|-----------|
-| 🎨 **Design First** | Experiências visuais que impressionam |
-| ⚡ **Performance** | Código otimizado e veloz |
-| 🔒 **Segurança** | Proteção de dados em primeiro lugar |
-| 📱 **Responsivo** | Funciona perfeitamente em qualquer tela |
-| ♿ **Acessível** | Inclusivo para todos os usuários |
-| 🧪 **Testável** | Qualidade garantida por testes |
-| 📚 **Documentado** | Código limpo e bem explicado |
-| 🔄 **Escalável** | Preparado para crescer |
+<img src="https://github-profile-trophy.vercel.app/?username=higorxyz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 </div>
 
@@ -115,12 +112,14 @@ const higor = {
 <div align="center">
 
 <a href="https://higorxyz.vercel.app">
-  <img src="https://img.shields.io/badge/🚀_Ver_Portfólio_Completo-A855F7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_EXPLORAR_PORTFÓLIO-A855F7?style=for-the-badge&logoColor=white&labelColor=0D1117" height="50"/>
 </a>
 
 <br><br>
 
-> 🔥 Portfólio interativo com **integração GitHub API** para exibição dinâmica de projetos e estatísticas em tempo real!
+> 💼 **Portfólio profissional** com integração GitHub API em tempo real  
+> 🎨 **Design moderno** e totalmente responsivo  
+> ⚡ **Tecnologias:** React 19 • Vite 7 • Tailwind CSS 4
 
 </div>
 
@@ -133,6 +132,7 @@ const higor = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higorbatista)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higorxyz/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.higorxyz@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://higorxyz.vercel.app)
 
 <br>
 
@@ -152,9 +152,17 @@ const higor = {
 
 ## 💜 Obrigado pela Visita!
 
-<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-4dfc-a07d-7d5937c1c1ea.gif" width="250">
-
 ### *"O único modo de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
+
+<br>
+
+### 🎯 **Próximo Passo: Conhecer Meu Trabalho!**
+
+<a href="https://higorxyz.vercel.app">
+  <img src="https://img.shields.io/badge/👉_ACESSAR_PORTFÓLIO-EC4899?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19&height=150&section=footer" width="100%"/>
 
