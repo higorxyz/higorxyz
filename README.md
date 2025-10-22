@@ -150,7 +150,7 @@ const higor = {
 
 <div align="center">
 
-## 💜 Obrigado pela Visita!
+## 💜 Obrigado pela Visita! 
 
 ### *"O único modo de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
 
