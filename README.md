@@ -83,12 +83,12 @@ const higor = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=higorxyz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF&ring_color=A855F7"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=higorxyz&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorxyz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF&ring_color=A855F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorxyz&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=higorxyz&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=9CA3AF" />
+  <img src="https://streak-stats.demolab.com?user=higorxyz&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=9CA3AF" />
 </div>
 
 <div align="center">
